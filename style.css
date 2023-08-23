@@ -1,0 +1,56 @@
+body {
+    background-color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+    text-align: center;
+}
+
+.container h1,
+h2 {
+    text-decoration: underline;
+}
+
+.container p {
+    font-style: italic;
+}
+
+h1,
+h2 {
+    color: brown;
+}
+
+p {
+    text-align: justify;
+    font-size: 20px;
+}
+
+img {
+    border: solid black;
+}
+
+h2 a {
+    color: deeppink;
+}
+
+li {
+    font-size: 20px;
+    text-align: justify;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+a:hover {
+    color: blue;
+}
+
+a:active {
+    color: red;
+}
+
+a:visited {
+    color: rgb(105, 8, 81);
+}
